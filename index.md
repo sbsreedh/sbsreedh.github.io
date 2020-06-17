@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Identification of Risk of readmission of Diabetic Patients]( https://sbsreedh.github.io/Identification-of-Risk-of-readmission-of-Diabetic-patients/)
+[Identification of Risk of readmission of Diabetic Patients]( https://github.com/sbsreedh/Identification-of-Risk-of-readmission-of-Diabetic-patients)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
