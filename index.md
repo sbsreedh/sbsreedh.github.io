@@ -5,7 +5,7 @@
 ### Machine Learning
 
 [Human Activity Recognition using Time Series Classification](https://github.com/sbsreedh/Human-Activity-Recognition-using-Time-Series-Classification)
-<img src=""/images/hum.jpeg?" "/>
+<img src="/images/hum.jpeg?"/>
 
 ---
 [Identification of Risk of readmission of Diabetic Patients]( https://github.com/sbsreedh/Identification-of-Risk-of-readmission-of-Diabetic-patients)
