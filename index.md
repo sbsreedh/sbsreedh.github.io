@@ -5,6 +5,7 @@
 ### Machine Learning
 
 [Human Activity Recognition using Time Series Classification](https://github.com/sbsreedh/Human-Activity-Recognition-using-Time-Series-Classification)
+
 <img src="/images/hum.jpeg?"/>
 
 ---
