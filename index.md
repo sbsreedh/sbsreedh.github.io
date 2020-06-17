@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](https://github.com/sbsreedh/Banknote-Authentication-Dataset-KNN-Analysis)
+[Banknote Authentication Dataset -KNN Analysis](https://github.com/sbsreedh/Banknote-Authentication-Dataset-KNN-Analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
