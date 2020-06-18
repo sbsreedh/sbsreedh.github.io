@@ -18,9 +18,12 @@
 
 ---
 
-### Category Name 2
+### Computer Vision and Image Processing
 
-- [Project 1 Title](http://example.com/)
+#### Image Processing toolbox
+
+- [Histogram Manipulation and Image denosing](https://github.com/sbsreedh/Color-Histogram-Manipulation-and-Image-Denoising)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
