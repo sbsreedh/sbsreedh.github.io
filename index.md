@@ -23,7 +23,7 @@
 #### Image Processing toolbox
 
 - [Histogram Manipulation and Image denosing](https://github.com/sbsreedh/Color-Histogram-Manipulation-and-Image-Denoising)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/WhatsApp Image 2020-06-17 at 11.56.22 PM.jpeg"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
