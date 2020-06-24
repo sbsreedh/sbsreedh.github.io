@@ -28,7 +28,7 @@
 <img src="images/WhatsApp Image 2020-06-17 at 11.56.22 PM.jpeg"/>
 
 - [Edge Detection and Digital Halftoning](https://github.com/sbsreedh/Edge-Detection-and-Digital-Halftoning)
-<img src="images/WhatsApp Image 2020-06-17 at 11.56.22 PM.jpeg"/>
+<img src="images/<img src="images/WhatsApp Image 2020-06-17 at 11.56.22 PM.jpeg"/>
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
