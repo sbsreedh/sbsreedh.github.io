@@ -25,7 +25,7 @@
 - [Histogram Manipulation and Image denosing](https://github.com/sbsreedh/Color-Histogram-Manipulation-and-Image-Denoising)
 <img src="images/WhatsApp Image 2020-06-17 at 11.56.22 PM.jpeg"/>
 - [Geometrical Modification of Images and Morphological Processing](http://example.com/)
-<img src="images/WhatsApp Image 2020-06-17 at 11.56.22 PM.jpeg"/>
+<img src="images/WhatsApp Image 2020-06-18 at 12.16.49 AM.jpeg"/>
 
 - [Edge Detection and Digital Halftoning](https://github.com/sbsreedh/Edge-Detection-and-Digital-Halftoning)
 <img src="images/ColorTone.png"/>
