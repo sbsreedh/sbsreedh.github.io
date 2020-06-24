@@ -29,7 +29,8 @@
 
 - [Edge Detection and Digital Halftoning](https://github.com/sbsreedh/Edge-Detection-and-Digital-Halftoning)
 <img src="images/ColorTone.png"/>
-- [Project 4 Title](http://example.com/)
+- [Image Stitching](https://github.com/sbsreedh/Image-Stitching)
+<img src="images/Final.png"/>
 - [Project 5 Title](http://example.com/)
 
 ---
