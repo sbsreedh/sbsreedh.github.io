@@ -27,7 +27,8 @@
 - [Geometrical Modification of Images and Morphological Processing](http://example.com/)
 <img src="images/WhatsApp Image 2020-06-17 at 11.56.22 PM.jpeg"/>
 
-- [Project 3 Title](http://example.com/)
+- [Edge Detection and Digital Halftoning](https://github.com/sbsreedh/Edge-Detection-and-Digital-Halftoning)
+<img src="images/WhatsApp Image 2020-06-17 at 11.56.22 PM.jpeg"/>
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
