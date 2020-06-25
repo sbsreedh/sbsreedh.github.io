@@ -1,3 +1,9 @@
+## About
+
+Currently pursuing my MS in Robotics at Northwestern University, I intend to focus on areas such as localization and planning, machine learning, AI, computer vision, embedded systems, and algorithm development - essentially everything a robot needs to navigate its environment. I hope to combine my mechanical expertise with the skills and concepts learned in this program to rapidly advance the exciting field of autonomy and control. I believe my creativity, enthusiasm for the field, and maker mentality will be assets to any team I join in the future.
+
+
+
 ## Portfolio
 
 ---
