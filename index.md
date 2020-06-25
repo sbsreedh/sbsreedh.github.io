@@ -1,6 +1,6 @@
 ## About
 
-Currently pursuing my MS in Robotics at Northwestern University, I intend to focus on areas such as localization and planning, machine learning, AI, computer vision, embedded systems, and algorithm development - essentially everything a robot needs to navigate its environment. I hope to combine my mechanical expertise with the skills and concepts learned in this program to rapidly advance the exciting field of autonomy and control. I believe my creativity, enthusiasm for the field, and maker mentality will be assets to any team I join in the future.
+Currently pursuing my MS in Electrical Engineering at University Of Southern California, I intend to focus on areas such as localization and planning, machine learning, AI, computer vision and embedded systems - essentially everything a robot needs to navigate its environment. I hope to combine my experirnece working as an Applications Engineer at Analog Devices added  with the skills and concepts learned in this program to rapidlywill help me advance the exciting field of machine learning and computer vision. I believe my creativity, enthusiasm for the field, and maker mentality will be assets to any team I join in the future. 
 
 
 
