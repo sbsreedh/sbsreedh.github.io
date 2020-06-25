@@ -31,8 +31,8 @@
 <img src="images/ColorTone.png"/>
 - [Image Stitching](https://github.com/sbsreedh/Image-Stitching)
 <img src="images/Final.png"/>
-- [Project 5 Title](http://example.com/)
-
+- [Texture Classification](https://github.com/sbsreedh/Texture-Classification-and-Segmentation-using-k-means-clustering)
+<img src="images/Texture.png"/>
 ---
 
 
