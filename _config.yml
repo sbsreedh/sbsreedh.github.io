@@ -4,10 +4,20 @@ description: > # your text below (remove <br> elements if you don't need line br
  USC-2020|Data Science|Computer Vision|DSP 
   <br><br>
   Looking for Co-ops-2020| Full Time Opportunities starting from Jan 2021.
-    <br><br>
- # I hope to combine my  experience working as an Applications Engineer at Analog Devices added  with the skills and concepts learned in this program will help me advance in the upcoming exciting field . I believe my creativity, enthusiasm for the field, and maker mentality will be assets to any team I join in the future.
+  <br><br>
+ 
   
   <a href="https://www.linkedin.com/in/sonali-b-s">View My LinkedIn Profile</a> 
+  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url= https://github.com/sbsreedh/Resume/blob/master/SONALI_SREEDHAR_v_29.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
