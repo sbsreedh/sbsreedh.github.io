@@ -10,11 +10,11 @@
 
 ---
 [Identification of Risk of readmission of Diabetic Patients]( https://github.com/sbsreedh/Identification-of-Risk-of-readmission-of-Diabetic-patients)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 [Banknote Authentication Dataset -KNN Analysis](https://github.com/sbsreedh/Banknote-Authentication-Dataset-KNN-Analysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 
