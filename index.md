@@ -33,6 +33,8 @@
 <img src="images/Final.png"/>
 - [Texture Classification](https://github.com/sbsreedh/Texture-Classification-and-Segmentation-using-k-means-clustering)
 <img src="images/Texture.png"/>
+- [Image matching and Bag Of Words](https://github.com/sbsreedh/Image-Matching-and-Bag-of-Words)
+<img src="images/BOW.png"/>
 ---
 
 
