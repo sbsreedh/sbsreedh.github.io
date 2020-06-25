@@ -35,6 +35,8 @@
 <img src="images/Texture.png"/>
 - [Image matching and Bag Of Words](https://github.com/sbsreedh/Image-Matching-and-Bag-of-Words)
 <img src="images/BOW.png"/>
+[CNN Training on LENET](https://github.com/sbsreedh/CNN-Training-on-LeNet-5)
+<img src="images/CIFAR.png"/>
 ---
 
 
