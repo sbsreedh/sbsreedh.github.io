@@ -46,7 +46,7 @@ Currently pursuing my MS in Electrical Engineering at University Of Southern Cal
 
 ###  Master Computer Vision using OpenCV4 in Python-Udemy
 [Computer Vision using OpenCV4](https://github.com/sbsreedh/Master-Computer-Vision-using-OpenCV4-in-Python)
-<img src="images/download.png"/> 
+-<img src="images/download.png"/> 
 
 
 
