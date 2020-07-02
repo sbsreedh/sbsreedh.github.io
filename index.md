@@ -45,8 +45,8 @@ Currently pursuing my MS in Electrical Engineering at University Of Southern Cal
 <img src="images/CIFAR.png"/>
 ---
 ### Master Computer Vision using OpenCV4 in Python-Udemy
-[CNN Training on LENET](https://github.com/sbsreedh/Master-Computer-Vision-using-OpenCV4-in-Python)
-<!-- <img src="images/CIFAR.png"/> -->
+[Computer Vision using OpenCV4](https://github.com/sbsreedh/Master-Computer-Vision-using-OpenCV4-in-Python)
+<img src="images/download.png"/> 
 
 
 
