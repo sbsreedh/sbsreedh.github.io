@@ -47,11 +47,12 @@ Currently pursuing my MS in Electrical Engineering at University Of Southern Cal
 ###  Master Computer Vision using OpenCV4 in Python-Udemy
 [Computer Vision using OpenCV4](https://github.com/sbsreedh/Master-Computer-Vision-using-OpenCV4-in-Python)
 -<img src="images/download.png"/> 
+
 [Credit card Number Recognition](https://github.com/sbsreedh/Credit-Card-Number-Recognition)
 ![Screenshot 2019-06-04 at 10 10 41 PM](https://user-images.githubusercontent.com/29504448/58886061-da6ab500-8715-11e9-9df5-f64a64301f0b.png)
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- Remove above link if you don't want to attibute --> -->
